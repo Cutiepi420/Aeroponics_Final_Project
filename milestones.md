@@ -1,6 +1,6 @@
 #Working Air with the Utilization of Microcontrollers
-#David Yalacki & Allie Porter
-#Microcontrollers 420- Final Project
+##David Yalacki & Allie Porter
+##Microcontrollers 420- Final Project
 
 ##Milestones
 
