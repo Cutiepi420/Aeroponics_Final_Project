@@ -1,5 +1,7 @@
 # Aeroponics_Final_Project
+
 This repository contains the source code to interface with the hardware of an aeroponics system. This is our final project for Rice University's Microcontrollers 421/521 taught by Dr. Jordan Miller.
+
 
 ##Brainstorm 
 
@@ -10,6 +12,7 @@ Aeroponics is derived from the Latin words, aero (air) and ponos (work).1 The co
 
 References
 Massie, Lee. "Aeroponics DIY – Design and Build Your Own Aeroponics System." Aeroponics DIY – Design and Build Your Own Aeroponics System. N.p., 2016. Web. 13 Oct. 2016. <http://aeroponicsdiy.com/>.
+
 
 ##Abstract
 
