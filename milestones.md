@@ -8,7 +8,7 @@
 Accomplished: Uploading readme and brainstorming documents. Begin initial coding steps.
 
 2. October 27th: Order all hardware parts and have a coding outline for proof of concept design. Begin Troubleshooting.
-Accomplished: Work on setting up touch screen, edit code, order additional parts, begin working on hardware set up (we only having a few of the parts)
+Accomplished: Work on setting up touch screen, edit code, order additional parts, begin working on hardware set up (we only had a few of the parts)
 3. November 3rd: Abstract Due. Finish troubleshooting for proof of concept design and discuss the final addition of additional features. Our device should output water based on our code. We should be able to control our device and water output.
 Accomplished: Addition of temperature and humidity sensor. Able to actively monitor this data (with low accuracy, high reliability). Gained control of the solenoid valve. Ready to attach tubing and add in the pump to properly output water. We also learned it would take 22 years to fill up our Pi with data on temperature and humidity (thanks, Jordan).
 
