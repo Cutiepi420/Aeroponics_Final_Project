@@ -17,6 +17,9 @@ Accomplished: Work on setting up touch screen, edit code, order additional parts
 Accomplished: Addition of temperature and humidity sensor. Able to actively monitor this data (with low accuracy, high reliability). Gained control of the solenoid valve. Ready to attach tubing and add in the pump to properly output water. We also learned it would take 22 years to fill up our Pi with data on temperature and humidity (thanks, Jordan).
 
 4. November 10th: Protoype Due. Ensure our device is functioning and output water as designated by our code.
+
+Accomplished: Addition of temperature and humidity sensor and light sensor. Able to successfully read information and output it on the pi. Began work on saving it using crontab. Got the actual water misting functioning. Need to troubleshoot minor issues and add our pressure sensor once the proper replacement valves arrive.
+
 5. November 17th: Fit & Finish. Add on any additional features that can improve upon our design without compromising its function.
 6. November 29th: Submit all code. Ensure that our device is functional and either takes in data or reads it from a sensor.
 7. December 1st: Final Presentation. Create a video or powerpoint presentation to show the functionality of our device.
