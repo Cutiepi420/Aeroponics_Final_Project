@@ -4,6 +4,8 @@ import glob
 import re
 import string
 
+#defines the current local time
+#saves the data to a unique file based on the time collected
 newtime = strftime("%Y-%m-%d")
 with open('/Users/DRYalacki/Documents/Engineering/LightData/'+newtime+'-Compilation.txt','w+') as fo:
     for file in glob.glob(newtime+"*"):
